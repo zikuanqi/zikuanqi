@@ -1,9 +1,3 @@
-<!--
-  GitHub Profile README · 个人主页自述文件
-  注：Kaggle 链接用的是 kaggle.com/zikuanqi（按 GitHub 同名推断）。
-  若你的 Kaggle 主页 URL 不是这个，把正确链接发我即可修正。
--->
-
 <div align="center">
 
 # Hi there, I'm Zikuan Qi （綦子宽） 👋
