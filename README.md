@@ -4,7 +4,7 @@
 
 ### 🎓 PhD student @ University of Sydney · Machine Learning & Deep Learning
 
-**USYD PHD studnet** · 专注 机器学习 / 深度学习 / 神经网络 / 时间序列预测 / 深度推荐 / ARC-AGI
+· 专注 机器学习 / 深度学习 / 神经网络 / 时间序列预测 / 深度推荐 / ARC-AGI
 
 [![Profile Views](https://komarev.com/ghpvc/?username=zikuanqi&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/zikuanqi)
 [![Kaggle](https://img.shields.io/badge/Kaggle-Zikuan_Qi-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/zikuanqi)
