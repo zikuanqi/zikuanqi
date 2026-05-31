@@ -2,9 +2,9 @@
 
 # Hi there, I'm Zikuan Qi （綦子宽） 👋
 
-### 🎓 PhD Researcher @ University of Sydney · Machine Learning & Deep Learning
+### 🎓 PhD student @ University of Sydney · Machine Learning & Deep Learning
 
-**悉尼大学博士研究者** · 专注 机器学习 / 深度学习 / 时间序列预测 / 深度推荐 / ARC-AGI
+**悉尼大学博士研究者** · 专注 机器学习 / 深度学习 / 神经网络 / 时间序列预测 / 深度推荐 / ARC-AGI
 
 [![Profile Views](https://komarev.com/ghpvc/?username=zikuanqi&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/zikuanqi)
 [![Kaggle](https://img.shields.io/badge/Kaggle-Zikuan_Qi-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/zikuanqi)
