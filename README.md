@@ -98,8 +98,6 @@
 
 ## 🐍 Contribution Snake · 贪吃蛇活跃度
 
-> 我的 GitHub 贡献格子会被贪吃蛇逐格吃掉 —— 每天自动刷新（由 [`.github/workflows/snake.yml`](.github/workflows/snake.yml) 生成并推送到 `output` 分支）。
-
 <div align="center">
 
 <picture>
