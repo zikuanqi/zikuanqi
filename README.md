@@ -85,12 +85,28 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=zikuanqi&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=zikuanqi&show_icons=true&count_private=true&hide_border=true&rank_icon=default&theme=tokyonight" alt="GitHub Stats" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zikuanqi&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" alt="Top Languages" />
 
 <br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=zikuanqi&hide_border=true&theme=tokyonight" alt="GitHub Streak" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake · 贪吃蛇活跃度
+
+> 我的 GitHub 贡献格子会被贪吃蛇逐格吃掉 —— 每天自动刷新（由 [`.github/workflows/snake.yml`](.github/workflows/snake.yml) 生成并推送到 `output` 分支）。
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zikuanqi/zikuanqi/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zikuanqi/zikuanqi/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my github contribution graph · 贪吃蛇吃掉我的贡献格子" src="https://raw.githubusercontent.com/zikuanqi/zikuanqi/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 
